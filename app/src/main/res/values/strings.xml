@@ -7,4 +7,5 @@
     <string name="hint_edad">Edad</string>
     <string name="hint_correo">Correo Electrónico</string>
     <string name="btn_agregar_cliente">Agregar Cliente</string>
+    <string name="title_list_clients">Clientes Registrados</string>
 </resources>
