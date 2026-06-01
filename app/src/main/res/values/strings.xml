@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">UTHApp</string>
+    <string name="app_name">GatoAbogado</string>
+    <string name="title_register">Registro de Cliente</string>
+    <string name="subtitle_register">Complete la información a continuación</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_apellido">Apellido</string>
+    <string name="hint_edad">Edad</string>
+    <string name="hint_correo">Correo Electrónico</string>
+    <string name="btn_agregar_cliente">Agregar Cliente</string>
 </resources>
